@@ -1,1 +1,2 @@
-# solid-octo-couscous
+# Initial page
+
